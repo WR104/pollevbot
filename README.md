@@ -2,6 +2,8 @@
 
 pollevbot is a bot that automatically responds to polls on pollev.com. It continually checks if a specified host has opened any polls. Once a poll has been opened, it submits a random response.
 
+**for UCI Account only**
+
 ## Prerequisites
 
 Before running this script, ensure you have the following installed:
