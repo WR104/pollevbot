@@ -20,7 +20,6 @@ To set up this project on your local machine, follow these steps:
 
 ```pip install selenium```
 
-``pip install bs4``
 
 ## Usage
 
