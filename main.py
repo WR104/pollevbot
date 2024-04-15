@@ -18,7 +18,7 @@ def run(UCInetID, password, presenter_code, wait_time=60*60*2):
             time.sleep(5)
 
             # Join using a presenter's code
-            join_presenter_by_code(driver, presenter_code, 10)
+            join_presenter_by_code(driver, presenter_code, 30)
 
             time.sleep(5)
 
